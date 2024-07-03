@@ -1,0 +1,5 @@
+# ninja log v5
+0	521	1719985173	CMakeFiles/paddleocrncnn.dir/common.cpp.o	d9ec775271524f62
+0	561	1719985173	CMakeFiles/paddleocrncnn.dir/paddleocr_ncnn.cpp.o	263772951f72194b
+0	669	1719985173	CMakeFiles/paddleocrncnn.dir/clipper.cpp.o	23fee34f4e3d1c12
+669	903	1719985173	/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libpaddleocrncnn.so	3decfc7cb515d375

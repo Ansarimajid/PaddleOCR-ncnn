@@ -1,0 +1,7 @@
+#Wed Jul 03 11:09:36 IST 2024
+base.1=/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+path.1=classes.dex
+base.0=/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

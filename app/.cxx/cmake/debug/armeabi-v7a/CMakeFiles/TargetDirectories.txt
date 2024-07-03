@@ -1,0 +1,3 @@
+/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/paddleocrncnn.dir

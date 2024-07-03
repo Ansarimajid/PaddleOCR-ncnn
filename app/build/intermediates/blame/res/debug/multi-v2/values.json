@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

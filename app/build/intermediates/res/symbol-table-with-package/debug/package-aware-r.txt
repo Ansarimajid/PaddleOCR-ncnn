@@ -1,0 +1,9 @@
+com.tencent.paddleocrncnn
+id buttonCamera
+id buttonDetect
+id buttonDetectGPU
+id buttonImage
+id imageView
+layout main
+string app_name
+xml file_paths

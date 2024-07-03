@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/build/intermediates/res/merged/debug/xml_file_paths.xml.flat",
+        "source": "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/src/main/res/layout/main.xml"
+    }
+]

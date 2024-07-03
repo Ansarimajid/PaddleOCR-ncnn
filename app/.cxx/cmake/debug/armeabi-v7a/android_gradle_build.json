@@ -1,0 +1,68 @@
+{
+  "stringTable": {
+    "0": "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi24 --gcc-toolchain=/home/majid/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/majid/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dpaddleocrncnn_EXPORTS -isystem /home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/ncnn-20210720-android-vulkan/armeabi-v7a/include/ncnn -isystem /home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/opencv-mobile-4.5.1-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions -std=gnu++11"
+  },
+  "buildFiles": [
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/opencv-mobile-4.5.1-android/sdk/native/jni/OpenCVConfig.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/opencv-mobile-4.5.1-android/sdk/native/jni/abi-armeabi-v7a/OpenCVConfig.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/ncnn-20210720-android-vulkan/armeabi-v7a/lib/cmake/SPIRVTargets-release.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/opencv-mobile-4.5.1-android/sdk/native/jni/abi-armeabi-v7a/OpenCVModules-release.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/src/main/jni/CMakeLists.txt",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/opencv-mobile-4.5.1-android/sdk/native/jni/abi-armeabi-v7a/OpenCVModules.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/ncnn-20210720-android-vulkan/armeabi-v7a/lib/cmake/OGLCompilerTargets-release.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/ncnn-20210720-android-vulkan/armeabi-v7a/lib/cmake/glslangTargets.cmake",
+    "/home/majid/Android/Sdk/ndk/21.4.7075529/build/cmake/platforms.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/opencv-mobile-4.5.1-android/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/ncnn-20210720-android-vulkan/armeabi-v7a/lib/cmake/OSDependentTargets-release.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/ncnn-20210720-android-vulkan/armeabi-v7a/lib/cmake/SPIRVTargets.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/ncnn-20210720-android-vulkan/armeabi-v7a/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/ncnn-20210720-android-vulkan/armeabi-v7a/lib/cmake/ncnn/ncnn.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/ncnn-20210720-android-vulkan/armeabi-v7a/lib/cmake/OSDependentTargets.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/ncnn-20210720-android-vulkan/armeabi-v7a/lib/cmake/glslangTargets-release.cmake",
+    "/home/majid/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/ncnn-20210720-android-vulkan/armeabi-v7a/lib/cmake/ncnn/ncnn-release.cmake",
+    "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/ncnn-20210720-android-vulkan/armeabi-v7a/lib/cmake/OGLCompilerTargets.cmake"
+  ],
+  "cleanCommands": [
+    "/home/majid/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/home/majid/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "paddleocrncnn-Debug-armeabi-v7a": {
+      "buildCommand": "/home/majid/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/.cxx/cmake/debug/armeabi-v7a\" paddleocrncnn",
+      "buildType": "debug",
+      "toolchain": "2294246218",
+      "abi": "armeabi-v7a",
+      "artifactName": "paddleocrncnn",
+      "files": [
+        {
+          "src": "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/src/main/jni/paddleocr_ncnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/src/main/jni/common.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/src/main/jni/clipper.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libpaddleocrncnn.so"
+    }
+  },
+  "toolchains": {
+    "2294246218": {
+      "cppCompilerExecutable": "/home/majid/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

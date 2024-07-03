@@ -1,0 +1,11 @@
+Found OpenCV: /home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/opencv-mobile-4.5.1-android (found version "4.5.1") found components:  core imgproc 
+Found OpenMP_C: -fopenmp=libomp (found version "3.1") 
+Found OpenMP_CXX: -fopenmp=libomp (found version "3.1") 
+Found OpenMP: TRUE (found version "3.1")  
+Looking for pthread.h
+Looking for pthread.h - found
+Looking for pthread_create
+Looking for pthread_create - found
+Found Threads: TRUE  
+Found Vulkan: /home/majid/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/24/libvulkan.so  
+Configuring done

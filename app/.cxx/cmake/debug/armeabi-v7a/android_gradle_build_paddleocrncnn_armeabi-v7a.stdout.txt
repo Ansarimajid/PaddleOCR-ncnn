@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/.cxx/cmake/debug/armeabi-v7a'
+ninja: no work to do.

@@ -1,0 +1,1 @@
+ninja: error: '/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/PaddleLite/cxx/libs/arm64-v8a/libpaddle_light_api_shared.so', needed by '/home/majid/Documents/Majid/Android/ncnn_paddleocr-main/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so', missing and no known rule to make it
